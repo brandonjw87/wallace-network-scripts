@@ -1,0 +1,128 @@
+[
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  120,
+        "best":  113
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  125,
+        "best":  120
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  118,
+        "best":  110
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  64,
+        "best":  59
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  125,
+        "best":  114
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  98,
+        "best":  93
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  116,
+        "best":  109
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  145,
+        "best":  124
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  162,
+        "best":  154
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  175,
+        "best":  121
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  161,
+        "best":  133
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  163,
+        "best":  150
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  118,
+        "best":  94
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  805,
+        "best":  790
+    },
+    {
+        "upstream":  5,
+        "ok":  0,
+        "median":  -1,
+        "best":  -1
+    },
+    {
+        "upstream":  5,
+        "ok":  0,
+        "median":  -1,
+        "best":  -1
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  166,
+        "best":  151
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  120,
+        "best":  117
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  147,
+        "best":  135
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  111,
+        "best":  106
+    },
+    {
+        "upstream":  5,
+        "ok":  5,
+        "median":  176,
+        "best":  155
+    }
+]

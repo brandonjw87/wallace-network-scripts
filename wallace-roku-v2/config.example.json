@@ -1,0 +1,86 @@
+{
+    "_comment":  "WALLACE hotspot settings (v2 engine). NO secrets in this file - the hotspot passphrase is only referenced by file path. Devices are tracked by MAC (DeviceMacs/KumaMacMonitors); IPs are DHCP and may change.",
+    "Ssid":  "YOUR_WIFI_SSID",
+    "PassphraseFile":  "C:\\path\\to\\hotspot-passphrase.txt",
+    "PreferredBand":  "FiveGigahertz",
+    "UplinkAliases":  [
+                          "Ethernet",
+                          "Wi-Fi"
+                      ],
+    "WifiAlias":  "Wi-Fi",
+    "_WifiAlias":  "legacy fallback only; uplinks come from UplinkAliases (lowest route metric with a gateway is active)",
+    "HotspotAlias":  "Local Area Connection* 2",
+    "LanIp":  "192.0.2.28",
+    "LanIps":  {
+                   "Ethernet":  "192.0.2.13",
+                   "Wi-Fi":  "192.0.2.28"
+               },
+    "_LanIps":  "expected LAN IP per uplink adapter; health check accepts whichever uplink is active",
+    "StaleLanIp":  "192.0.2.31",
+    "LanSubnet":  "192.0.2.20/24",
+    "RouterIp":  "192.0.2.15",
+    "HotspotIp":  "192.0.2.11",
+    "HotspotSubnet":  "192.0.2.19/24",
+    "TrustedRemoteAddresses":  [
+                                   "192.0.2.19/24",
+                                   "192.0.2.20/24",
+                                   "127.0.0.1"
+                               ],
+    "Ports":  {
+                  "Dns":  53,
+                  "AdGuardWeb":  3000
+              },
+    "AdGuardService":  "AdGuardHome",
+    "AdGuardDir":  "C:\\Users\\YOU\\Tools\\AdGuardHome",
+    "IcsServices":  [
+                        "SharedAccess",
+                        "icssvc"
+                    ],
+    "DhcpService":  "OpenDHCPServer",
+    "DhcpIni":  "C:\\OpenDHCPServer\\OpenDHCPServer.ini",
+    "LegacyDir":  "C:\\Users\\YOU\\Tools\\roku-dhcp",
+    "EnforceLoopbackDns":  true,
+    "LoopbackDnsServers":  [
+                               "127.0.0.1",
+                               "::1",
+                               "192.0.2.15"
+                           ],
+    "Probe":  {
+                  "GoodDomain":  "example.com",
+                  "AdDomain":  "doubleclick.net",
+                  "InternetTargets":  [
+                                          "1.1.1.1:443",
+                                          "9.9.9.9:443",
+                                          "8.8.8.8:53"
+                                      ],
+                  "TimeoutSec":  3
+              },
+    "LogDir":  "C:\\Users\\YOU\\Tools\\wallace-roku-v2\\logs",
+    "LogMaxKB":  512,
+    "LogKeep":  3,
+    "StatusFile":  "C:\\Users\\YOU\\Tools\\wallace-roku-v2\\logs\\status.json",
+    "StateFile":  "C:\\Users\\YOU\\Tools\\wallace-roku-v2\\logs\\watchdog.state.json",
+    "Watchdog":  {
+                     "TaskName": "WALLACE Watchdog",
+                     "IntervalMinutes":  3,
+                     "CooldownMinutes":  10,
+                     "GiveUpAfterFails":  8,
+                     "NagEveryMinutes":  30
+                 },
+    "BackupRoot":  "C:\\Users\\YOU\\Tools\\dev-config-backup",
+    "StartupCmd":  "C:\\Users\\YOU\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\start-hotspot.cmd",
+    "KumaDb":  "C:\\Users\\YOU\\Tools\\uptime-kuma\\data\\kuma.db",
+    "KumaLauncher":  "C:\\Users\\YOU\\Tools\\uptime-kuma\\run-hidden.vbs",
+    "KumaMacMonitors":  {
+                            "9":  "00:00:5E:00:53:03",
+                            "10":  "00:00:5E:00:53:07",
+                            "11":  "00:00:5E:00:53:01"
+                        },
+    "DeviceMacs":  {
+                       "LG TV":  "00:00:5E:00:53:03",
+                       "Hisense Roku TV":  "00:00:5E:00:53:07",
+                       "Roku Streaming Stick 4K":  "00:00:5E:00:53:01",
+                       "Roku RCA grandparents":  "00:00:5E:00:53:08",
+                       "55in TCL Roku TV":  "00:00:5E:00:53:09"
+                   }
+}

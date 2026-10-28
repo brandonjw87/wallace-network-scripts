@@ -1,0 +1,116 @@
+[
+    {
+        "u":  "https://dns.quad9.net/dns-query",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "h3://dns.quad9.net/dns-query",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "tls://dns.quad9.net",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "sdns://AQMAAAAAAAAADDkuOS45Ljk6ODQ0MyBnyEe4yHWM0SAkVUO-",
+        "ok":  5,
+        "med":  84,
+        "min":  78
+    },
+    {
+        "u":  "https://cloudflare-dns.com/dns-query",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "h3://cloudflare-dns.com/dns-query",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "tls://1dot1dot1dot1.cloudflare-dns.com",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "https://unfiltered.adguard-dns.com/dns-query",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "h3://unfiltered.adguard-dns.com/dns-query",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "quic://unfiltered.adguard-dns.com",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "tls://unfiltered.adguard-dns.com",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "sdns://AQcAAAAAAAAAEjk0LjE0MC4xNC4xNDA6NTQ0MyC16ETWuDo-",
+        "ok":  5,
+        "med":  138,
+        "min":  118
+    },
+    {
+        "u":  "https://dns.mullvad.net/dns-query",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "tls://dns.mullvad.net",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "https://base.dns.mullvad.net/dns-query",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "https://dns.google/dns-query",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "h3://dns.google/dns-query",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "quic://dns.nextdns.io",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    },
+    {
+        "u":  "https://dns.nextdns.io/dns-query",
+        "ok":  0,
+        "med":  -1,
+        "min":  -1
+    }
+]

@@ -1,0 +1,3 @@
+$log='C:\Users\YOU\Tools\msgfix\msgfix-admin.log'; function L($m){ Add-Content $log "$(Get-Date -f s) $m" }
+$pd='C:\ProgramData\WALLACE Admin'; Copy-Item C:\Users\YOU\Tools\msgfix\dns-bind-guard.ps1 "$pd\dns-bind-guard.ps1" -Force; Copy-Item C:\Users\YOU\Tools\msgfix\messaging-domains.txt "$pd\messaging-domains.txt" -Force
+L 'step2: guard v2 (device sync + messaging guard) + domains copied'; Start-ScheduledTask -TaskPath '\WALLACE\' -TaskName 'DNS bind guard'; Start-Sleep 15; L ("guard log tail: " + ((Get-Content "$pd\dns-bind-guard.log" -Tail 3) -join ' | ')); L ("task last result: " + (Get-ScheduledTaskInfo -TaskPath '\WALLACE\' -TaskName 'DNS bind guard').LastTaskResult)

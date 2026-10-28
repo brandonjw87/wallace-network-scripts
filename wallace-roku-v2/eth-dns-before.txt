@@ -1,0 +1,8 @@
+
+InterfaceAlias               Interface Address ServerAddresses                                                         
+                             Index     Family                                                                          
+--------------               --------- ------- ---------------                                                         
+Ethernet                            14 IPv4    {192.0.2.15}                                                           
+Ethernet                            14 IPv6    {2603:7082:f141:5e8b::1, 2603:7082:f141:5e8b::1}                        
+
+

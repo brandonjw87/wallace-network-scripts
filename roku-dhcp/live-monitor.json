@@ -1,0 +1,6202 @@
+[
+    {
+        "t":  "2026-10-23T10:53:23.6434443-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:23.6684598-04:00",
+        "n":  "srtb.msn.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||srtb.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:48:30.371238-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:50:45.3229857-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:50:09.3922345-04:00",
+        "n":  "busy.any-amer.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:57:25.6782735-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:58:45.1425684-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:56:29.2056903-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:32.6041273-04:00",
+        "n":  "www.gstatic.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@||gstatic.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:02.4663242-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:23.666556-04:00",
+        "n":  "srtb.msn.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||srtb.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:57:09.7803042-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:48:52.842731-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:20.7894841-04:00",
+        "n":  "arc.msn.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:48:12.3586697-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:49:45.2824681-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:51:35.3645041-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:51:38.0148764-04:00",
+        "n":  "daily-cloudcode-pa.googleapis.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:44:24.6125994-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:29.8301389-04:00",
+        "n":  "beacons-wbd.mediamelon.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||beacons-wbd.mediamelon.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:47:09.8168476-04:00",
+        "n":  "beacons-wbd.mediamelon.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||beacons-wbd.mediamelon.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:55:54.0240755-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:28.6575966-04:00",
+        "n":  "nexus-websocket-a.intercom.io",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:49:44.4250941-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:55:55.6066691-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:51:14.9807722-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:57:15.097082-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:46:56.7982506-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:54:15.0306597-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:46:05.6219646-04:00",
+        "n":  "busy.any-any.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:49:23.3784392-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:58:39.2322307-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:49:30.4910517-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:43:43.0801381-04:00",
+        "n":  "www.googleapis.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:51:35.3645041-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:48:09.8594672-04:00",
+        "n":  "beacons-wbd.mediamelon.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||beacons-wbd.mediamelon.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:50.5227252-04:00",
+        "n":  "edge-consumer-static.azureedge.net",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:49:15.2521669-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:43:06.2791258-04:00",
+        "n":  "catalog.gamepass.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:44:01.4769246-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:57:39.2237817-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:20.6850001-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:57:52.4549961-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:20.5352133-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2000137-04:00",
+        "n":  "sb.scorecardresearch.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scorecardresearch.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:55:29.0558875-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:55:55.6066691-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:56:18.4435965-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:48:39.1412041-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:55:39.8280149-04:00",
+        "n":  "beacons-wbd.mediamelon.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||beacons-wbd.mediamelon.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:16.7218897-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:49:41.0381785-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:05.3595056-04:00",
+        "n":  "sdk.iad-01.braze.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||braze.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:47:30.6812117-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:54:39.2100119-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:57:09.7808093-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:46:54.4126202-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:06.2471503-04:00",
+        "n":  "catalog.gamepass.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:53:05.4512921-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:45:22.6143079-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:56:45.0884671-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:45:59.9051059-04:00",
+        "n":  "beacons-wbd.mediamelon.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||beacons-wbd.mediamelon.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:50:54.9667172-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:06.244972-04:00",
+        "n":  "catalog.gamepass.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  6
+    },
+    {
+        "t":  "2026-10-23T10:45:59.6716039-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:59.6711002-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:55:39.2402298-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:54:27.6274021-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:58:49.0324473-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:43:50.1202962-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:51:10.0511084-04:00",
+        "n":  "beacons-wbd.mediamelon.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||beacons-wbd.mediamelon.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:47:45.1664652-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2084749-04:00",
+        "n":  "c.msn.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:41.5999347-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:23.6684598-04:00",
+        "n":  "srtb.msn.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||srtb.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:55:34.6766895-04:00",
+        "n":  "edge.microsoft.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:52:56.9271573-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:57:33.6752421-04:00",
+        "n":  "claude.ai",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@||claude.ai^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:47:19.9166435-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:48:45.2300393-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:57:17.6019927-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:48:44.9900634-04:00",
+        "n":  "play.googleapis.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:47:30.6812117-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:56:55.6538927-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:47:50.8536383-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:46:19.6284896-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:50.6223476-04:00",
+        "n":  "edge.microsoft.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:28.6575966-04:00",
+        "n":  "nexus-websocket-a.intercom.io",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:59.628188-04:00",
+        "n":  "register.mediamelon.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:43:06.2791258-04:00",
+        "n":  "catalog.gamepass.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  7
+    },
+    {
+        "t":  "2026-10-23T10:52:47.1211403-04:00",
+        "n":  "config.teams.microsoft.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  7
+    },
+    {
+        "t":  "2026-10-23T10:48:01.8183296-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:39.9937696-04:00",
+        "n":  "beacons-wbd.mediamelon.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||beacons-wbd.mediamelon.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:48:04.9194216-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:55.4347376-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:39.2322307-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:44:01.4774324-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:26.1130465-04:00",
+        "n":  "api-iam.intercom.io",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:50.5282958-04:00",
+        "n":  "edge-consumer-static.azureedge.net",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:46:04.9047135-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:05.4512921-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2144673-04:00",
+        "n":  "assets.msn.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  6
+    },
+    {
+        "t":  "2026-10-23T10:53:06.2466253-04:00",
+        "n":  "catalog.gamepass.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  6
+    },
+    {
+        "t":  "2026-10-23T10:53:47.6287506-04:00",
+        "n":  "c.pki.goog",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:43:53.780942-04:00",
+        "n":  "sadownload.mcafee.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:53:22.1830036-04:00",
+        "n":  "sb.scorecardresearch.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scorecardresearch.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:05.3947614-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:44:01.8127868-04:00",
+        "n":  "default.any-amer.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:49:39.1577974-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:55:16.3381637-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:32.6368972-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:22.1824991-04:00",
+        "n":  "sb.scorecardresearch.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scorecardresearch.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:24.459986-04:00",
+        "n":  "clientservices.googleapis.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  6
+    },
+    {
+        "t":  "2026-10-23T10:50:49.8910609-04:00",
+        "n":  "v20.events.data.microsoft.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:47:15.1504609-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:58:15.7226187-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:47.5155499-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:48:25.2108718-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:52:14.551584-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:50:49.8910609-04:00",
+        "n":  "v20.events.data.microsoft.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:55:05.551828-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:46:19.6279844-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:53:26.1130465-04:00",
+        "n":  "api-iam.intercom.io",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:47:45.165943-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:47:41.3867538-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:23.6649782-04:00",
+        "n":  "srtb.msn.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||srtb.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:42.8380192-04:00",
+        "n":  "gmss.use2.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||gmss.use2.prd.api.discomax.com^$important",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:15.1325246-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:54:13.6368557-04:00",
+        "n":  "busy.any-amer.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:51:16.9194693-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:39.2472496-04:00",
+        "n":  "cf.amer-free.prd.media.max.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:49:13.6546028-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:57:47.9026134-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:50.1403838-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:56:29.6830694-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:58:06.244972-04:00",
+        "n":  "catalog.gamepass.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:53:57.3871718-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:45:38.2844414-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:40.9790515-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:14.5825273-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:47:25.4596096-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:43:43.2682561-04:00",
+        "n":  "lh3.googleusercontent.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:46:19.9103561-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:20.1397908-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2426049-04:00",
+        "n":  "c.bing.com",
+        "ty":  "HTTPS",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.bing.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:14.5825273-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:18.5162462-04:00",
+        "n":  "clientservices.googleapis.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:57:33.6752421-04:00",
+        "n":  "claude.ai",
+        "ty":  "A",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@||claude.ai^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:09.9867094-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:51:14.9807722-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2104024-04:00",
+        "n":  "c.bing.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.bing.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:49:25.2675113-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:51:49.0549389-04:00",
+        "n":  "ctldl.windowsupdate.com",
+        "ty":  "A",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@||windowsupdate.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  6
+    },
+    {
+        "t":  "2026-10-23T10:46:55.1270982-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:58:25.1675521-04:00",
+        "n":  "licensing.mp.microsoft.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:55:15.0489853-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:47:10.2899434-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:35.4806746-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:20.7894841-04:00",
+        "n":  "arc.msn.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:45:39.1150866-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:46:48.2895709-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:43:14.9075666-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:52:45.0181059-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:48:42.912613-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:49:08.8133385-04:00",
+        "n":  "busy.any-amer.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:56:54.0861445-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:55:46.6593495-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:47:41.1269943-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:25.3587412-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:56:54.7541859-04:00",
+        "n":  "ecs.office.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  11
+    },
+    {
+        "t":  "2026-10-23T10:55:18.4387401-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:46.0548991-04:00",
+        "n":  "config.teams.microsoft.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  7
+    },
+    {
+        "t":  "2026-10-23T10:49:39.1577974-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:52.7382546-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:02.0003599-04:00",
+        "n":  "images.cdn.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:48:06.2343856-04:00",
+        "n":  "catalog.gamepass.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:52:56.9266541-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:56:16.9658432-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:54.0582126-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:28.9745619-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:49:09.9536196-04:00",
+        "n":  "beacons-wbd.mediamelon.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||beacons-wbd.mediamelon.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:47:19.8889465-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:52:05.3947614-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:45.442604-04:00",
+        "n":  "play.googleapis.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:45:22.6143079-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:49.0324473-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:52.4226387-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:27.4283317-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:48:52.3155002-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:50:48.805336-04:00",
+        "n":  "login.live.com",
+        "ty":  "A",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@|login.live.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  12
+    },
+    {
+        "t":  "2026-10-23T10:52:39.181588-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:50:39.1649024-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:58:45.7492675-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:44:00.6088782-04:00",
+        "n":  "default.beam-amer.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:43:44.9375664-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:50:53.6767884-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:43:56.2544157-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2426049-04:00",
+        "n":  "c.bing.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.bing.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:50:44.9804466-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:49:23.1376247-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:20.7418968-04:00",
+        "n":  "edge.microsoft.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:44:14.9682647-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:58:25.1871197-04:00",
+        "n":  "login.live.com",
+        "ty":  "A",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@|login.live.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  12
+    },
+    {
+        "t":  "2026-10-23T10:47:31.0465709-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2072098-04:00",
+        "n":  "c.msn.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:48:15.1968729-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:45:33.0511915-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:07.5608054-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:15.1325246-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:58:18.4682667-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:48:21.982052-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:21.7789456-04:00",
+        "n":  "ntp.msn.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:22.1846908-04:00",
+        "n":  "sb.scorecardresearch.com",
+        "ty":  "HTTPS",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scorecardresearch.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:51:25.2581847-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:45:20.1397908-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2457187-04:00",
+        "n":  "sb.scorecardresearch.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scorecardresearch.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:47:20.2766566-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:57:16.8106322-04:00",
+        "n":  "busy.any-amer.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:49:35.2683923-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:50:24.261929-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:22.204055-04:00",
+        "n":  "www.bing.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  7
+    },
+    {
+        "t":  "2026-10-23T10:47:44.9541203-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:47.515046-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:39.1150866-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:55:05.5512791-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:49:34.1372537-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:58.7194138-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:57:54.1094895-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:43:53.8392174-04:00",
+        "n":  "cu1pehnswad01.servicebus.windows.net",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:48:12.3586697-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:45.0181059-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:45:30.4506275-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:52.4226387-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:21.7774389-04:00",
+        "n":  "ntp.msn.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:45:44.9737396-04:00",
+        "n":  "cf.oceania-free.prd.media.max.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:58:24.6850857-04:00",
+        "n":  "assets1.xboxlive.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:53:32.3841789-04:00",
+        "n":  "clients4.google.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:51:39.1681509-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:05.6337068-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:15.0307835-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:55:16.3381637-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:45:40.9820781-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:50:59.0564088-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:57:37.9646019-04:00",
+        "n":  "oauth2.googleapis.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:38.283656-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:57:17.6019927-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:25.3592685-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:07.5601534-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:56:39.2128477-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:44:15.836079-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:47:05.3312987-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:51:25.5648279-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:56:29.2051847-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:48:02.302871-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:43:44.7650216-04:00",
+        "n":  "play.googleapis.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:43:44.7655261-04:00",
+        "n":  "play.googleapis.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:58:45.1425684-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2387948-04:00",
+        "n":  "th.bing.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:43:43.0801381-04:00",
+        "n":  "www.googleapis.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:53:50.6223476-04:00",
+        "n":  "edge.microsoft.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:48:14.9595549-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:24.4594802-04:00",
+        "n":  "clientservices.googleapis.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:45.442604-04:00",
+        "n":  "play.googleapis.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2084749-04:00",
+        "n":  "c.msn.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2144673-04:00",
+        "n":  "assets.msn.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:50:59.0564088-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:41.5999347-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:43:53.780942-04:00",
+        "n":  "sadownload.mcafee.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:46:33.0879762-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:20.6930139-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:49:41.0381785-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:49:53.9613132-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:14.0867785-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:52:01.0259486-04:00",
+        "n":  "telemetry.incredibuild.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||telemetry.incredibuild.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:53.2926785-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:15.0307835-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:43:44.9375664-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:56:15.0717403-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:55:59.4116869-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:28.7041071-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:50:39.1649024-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:44:06.5978708-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:56:39.2128477-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:49:14.9603942-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:50:54.9662017-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:56:15.0717403-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:48:52.3155002-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:46:37.8386056-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:52:46.9850207-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:46:04.8196423-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:43:59.431856-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:51:44.9967405-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2072098-04:00",
+        "n":  "c.msn.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2387948-04:00",
+        "n":  "img-s-msn-com.akamaized.net",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:56:16.9658432-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:45:30.4506275-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:53.2926785-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:20.7813773-04:00",
+        "n":  "www.bing.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  6
+    },
+    {
+        "t":  "2026-10-23T10:53:32.6041273-04:00",
+        "n":  "www.gstatic.com",
+        "ty":  "A",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@||gstatic.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:46:06.3058377-04:00",
+        "n":  "busy.any-amer.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:45:45.065728-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2623078-04:00",
+        "n":  "api.msn.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:56:45.0889708-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:54:53.7923715-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2623078-04:00",
+        "n":  "api.msn.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:49:14.9603942-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:46:04.9047135-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:51:47.6545247-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:50.6230389-04:00",
+        "n":  "edge.microsoft.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:44:19.9156803-04:00",
+        "n":  "gcp.amer-free.prd.media.max.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:43.0738786-04:00",
+        "n":  "www.googleapis.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:44:39.1481233-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:54:08.3042001-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:52.7377487-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:56.6777142-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:44.9940885-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:54:42.2542398-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:58:31.3631348-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:56:15.7472914-04:00",
+        "n":  "busy.any-amer.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:54:45.765037-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:39.2143312-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:47:19.9166435-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:50:45.3229857-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:51:05.3605353-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:45:27.8326809-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:55:00.4241473-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:01.8249633-04:00",
+        "n":  "default-v4.any-any.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:58:55.4342346-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:23.7696431-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:45.0271757-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:53:47.7558999-04:00",
+        "n":  "x1.c.lencr.org",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:21.7769354-04:00",
+        "n":  "api.edgeoffer.microsoft.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:55:34.6766895-04:00",
+        "n":  "edge.microsoft.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2426049-04:00",
+        "n":  "c.bing.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.bing.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:46:39.6220717-04:00",
+        "n":  "telegraph.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||telegraph.prd.api.discomax.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:55.0797457-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:55:18.4387401-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:14.9690413-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:44:01.8091084-04:00",
+        "n":  "p.ads.roku.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||p.ads.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:54:15.456929-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:27.8333-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:55:39.2402298-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:50:14.9790242-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:48:32.5883197-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:50:15.2933684-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:57:47.9026134-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:52:28.9740557-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:47:19.8889465-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:49:53.9613132-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:52:44.0010458-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:50:15.1324802-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:57:45.1111419-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:57:00.5048625-04:00",
+        "n":  "settings-win.data.microsoft.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:46:54.4131253-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:46:05.906122-04:00",
+        "n":  "gmss.use2.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:47:55.1680691-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:58:50.2113554-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:49:44.9620007-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:43:58.0865913-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:44:25.6346519-04:00",
+        "n":  "cf.amer-free.prd.media.max.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:52:19.8341075-04:00",
+        "n":  "beacons-wbd.mediamelon.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||beacons-wbd.mediamelon.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:47.6287506-04:00",
+        "n":  "c.pki.goog",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:44:20.1172246-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2117066-04:00",
+        "n":  "c.bing.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.bing.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:54:35.5203992-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:55:46.6593495-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2407415-04:00",
+        "n":  "c.msn.com",
+        "ty":  "HTTPS",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:56:52.4411552-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:20.641632-04:00",
+        "n":  "pagead2.googlesyndication.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||pagead2.googlesyndication.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2387948-04:00",
+        "n":  "th.bing.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  6
+    },
+    {
+        "t":  "2026-10-23T10:47:39.1359661-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:52:13.548881-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:55:45.057621-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:24.4594802-04:00",
+        "n":  "clientservices.googleapis.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:55:14.6952268-04:00",
+        "n":  "busy.any-amer.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:13.3958364-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:20.7439008-04:00",
+        "n":  "edge.microsoft.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2104024-04:00",
+        "n":  "c.bing.com",
+        "ty":  "HTTPS",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.bing.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:53.5670882-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:48:42.2302599-04:00",
+        "n":  "gmss.use2.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||gmss.use2.prd.api.discomax.com^$important",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:57:33.6752421-04:00",
+        "n":  "claude.ai",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@||claude.ai^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:54.9259229-04:00",
+        "n":  "sadownload.mcafee.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:55:45.057621-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:53:32.6041273-04:00",
+        "n":  "www.gstatic.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@||gstatic.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:45.7492675-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:56:47.268529-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:48:52.842731-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:51:49.0549389-04:00",
+        "n":  "ctldl.windowsupdate.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@||windowsupdate.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  6
+    },
+    {
+        "t":  "2026-10-23T10:44:01.7714147-04:00",
+        "n":  "api.rpay.roku.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:51:25.5648279-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:51:05.3610558-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:52:35.4259588-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:57:37.9646019-04:00",
+        "n":  "oauth2.googleapis.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:55.0873305-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:50:42.3445792-04:00",
+        "n":  "gmss.use2.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||gmss.use2.prd.api.discomax.com^$important",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:48:44.9900634-04:00",
+        "n":  "play.googleapis.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:46:45.1120016-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2457187-04:00",
+        "n":  "sb.scorecardresearch.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scorecardresearch.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:49:20.1257151-04:00",
+        "n":  "telegraph.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||telegraph.prd.api.discomax.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:46:15.086838-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:57:39.8999221-04:00",
+        "n":  "beacons-wbd.mediamelon.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||beacons-wbd.mediamelon.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:47:41.1269943-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:56:34.4279671-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:21.7774389-04:00",
+        "n":  "api.edgeoffer.microsoft.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:51:53.748733-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:44.8674268-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:51:44.9967405-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:22.204055-04:00",
+        "n":  "www.bing.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  7
+    },
+    {
+        "t":  "2026-10-23T10:52:35.4254515-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:47:59.1455485-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:46:59.9858584-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:56:52.4411552-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:18.4682667-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:06.5973586-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:39.7978753-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:20.6890061-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2387948-04:00",
+        "n":  "img-s-msn-com.akamaized.net",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:47:39.1359661-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:56:34.4284708-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:54.9264287-04:00",
+        "n":  "sadownload.mcafee.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:44:22.2293509-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:55:25.5664574-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:44:44.9940885-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:52:14.551584-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:51:37.3513545-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:32.6363931-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:47:51.2417338-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:43:53.8392174-04:00",
+        "n":  "cu1pehnswad01.servicebus.windows.net",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:15.0449814-04:00",
+        "n":  "cf.emea-free.prd.media.max.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:58:24.6824315-04:00",
+        "n":  "assets1.xboxlive.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  6
+    },
+    {
+        "t":  "2026-10-23T10:45:23.3271707-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:49:59.0486692-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:38.0717859-04:00",
+        "n":  "daily-cloudcode-pa.googleapis.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:56:25.6293467-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:48:21.5773138-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:46:05.8963992-04:00",
+        "n":  "userdata.sr.roku.com",
+        "ty":  "A",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@||sr.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:49:25.2670056-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:46.0507538-04:00",
+        "n":  "config.teams.microsoft.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:47:20.2761445-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:46:50.1622862-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:54:15.4564092-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:44:16.2572208-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:46:49.0818437-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:26.5612919-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:58:00.4325473-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:57:38.2460551-04:00",
+        "n":  "daily-cloudcode-pa.googleapis.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:52:08.1024432-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:19.2476001-04:00",
+        "n":  "telegraph.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||telegraph.prd.api.discomax.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:44.8674268-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2407415-04:00",
+        "n":  "c.msn.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:20.5352133-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:20.7479095-04:00",
+        "n":  "edge.microsoft.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:54:05.4964014-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:32.3841789-04:00",
+        "n":  "clients4.google.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:59.1768028-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:20.6850001-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:49.2318362-04:00",
+        "n":  "api.anthropic.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@||anthropic.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:52.8831335-04:00",
+        "n":  "gcp.emea-free.prd.media.max.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:20.7894841-04:00",
+        "n":  "www.bing.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:44:15.836079-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:47:25.4591068-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:39.1476175-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:23.6670761-04:00",
+        "n":  "srtb.msn.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||srtb.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:42.5299804-04:00",
+        "n":  "gmss.use2.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||gmss.use2.prd.api.discomax.com^$important",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:01.0259486-04:00",
+        "n":  "telemetry.incredibuild.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||telemetry.incredibuild.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:23.6654993-04:00",
+        "n":  "srtb.msn.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||srtb.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:55:25.5664574-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:44:19.5549203-04:00",
+        "n":  "pagead2.googlesyndication.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||pagead2.googlesyndication.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:51:38.0148764-04:00",
+        "n":  "daily-cloudcode-pa.googleapis.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:50:48.805336-04:00",
+        "n":  "login.live.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@|login.live.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2623078-04:00",
+        "n":  "api.msn.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:48:55.2383159-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:43:20.1172169-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:44:24.6131029-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:57:26.0515136-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:58:45.6681803-04:00",
+        "n":  "play.googleapis.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2117066-04:00",
+        "n":  "c.bing.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.bing.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:43:02.1305337-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:54:29.841291-04:00",
+        "n":  "beacons-wbd.mediamelon.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||beacons-wbd.mediamelon.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:54:03.0799259-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:55:34.6773675-04:00",
+        "n":  "edge.microsoft.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:46:03.2116912-04:00",
+        "n":  "gcp.prd.media.h264.io",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:56:55.6538927-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:49:03.3321222-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:48:06.2338788-04:00",
+        "n":  "catalog.gamepass.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:58:45.6681803-04:00",
+        "n":  "play.googleapis.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:54:26.3182235-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:43:50.1202962-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:50:24.5102557-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:48:21.982052-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:50:04.8241019-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:51:06.3874847-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:46:39.1279735-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:57:39.2237817-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:49:30.4905482-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:51:56.0247412-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2009608-04:00",
+        "n":  "sb.scorecardresearch.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scorecardresearch.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:35.276172-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:48:21.5778202-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:47:51.2417338-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:56:39.8706495-04:00",
+        "n":  "beacons-wbd.mediamelon.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||beacons-wbd.mediamelon.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:49:53.6469653-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:44:08.0307597-04:00",
+        "n":  "telegraph.prd.api.discomax.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||telegraph.prd.api.discomax.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:57:38.2465765-04:00",
+        "n":  "daily-cloudcode-pa.googleapis.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:53:20.7889793-04:00",
+        "n":  "arc.msn.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2387948-04:00",
+        "n":  "th.bing.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  12
+    },
+    {
+        "t":  "2026-10-23T10:47:59.1450436-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:43:43.2682561-04:00",
+        "n":  "lh3.googleusercontent.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:49:59.0486692-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:43.227665-04:00",
+        "n":  "lh3.googleusercontent.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2144673-04:00",
+        "n":  "assets.msn.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  6
+    },
+    {
+        "t":  "2026-10-23T10:53:32.3841789-04:00",
+        "n":  "clients4.google.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  7
+    },
+    {
+        "t":  "2026-10-23T10:50:14.9785166-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:50:45.8725284-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:28.6581034-04:00",
+        "n":  "nexus-websocket-a.intercom.io",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:43:39.1145012-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:50:44.9804466-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:57.3871718-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:45:33.0511915-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:46:39.1284791-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:44:50.1318491-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:57:00.5048625-04:00",
+        "n":  "settings-win.data.microsoft.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2387948-04:00",
+        "n":  "img-s-msn-com.akamaized.net",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:21.7774389-04:00",
+        "n":  "ntp.msn.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:50:15.2933684-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:54:45.765037-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:25.1675521-04:00",
+        "n":  "licensing.mp.microsoft.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:53:21.7789456-04:00",
+        "n":  "ntp.msn.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:56:25.6298737-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:58:25.1871197-04:00",
+        "n":  "login.live.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@|login.live.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:54:20.6468246-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:39.2143312-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:51:56.0247412-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:48:44.9600962-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:28.7041071-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:00.0159578-04:00",
+        "n":  "api.roku.com",
+        "ty":  "A",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@||api.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  6
+    },
+    {
+        "t":  "2026-10-23T10:43:39.1145012-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:43.227665-04:00",
+        "n":  "lh3.googleusercontent.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:56:54.7541859-04:00",
+        "n":  "ecs.office.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  11
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2457187-04:00",
+        "n":  "sb.scorecardresearch.com",
+        "ty":  "HTTPS",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scorecardresearch.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:49:05.2384442-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:45:54.058723-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:51:39.1681509-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:20.7894841-04:00",
+        "n":  "www.bing.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:46:49.0808308-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:52:47.1206211-04:00",
+        "n":  "config.teams.microsoft.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  11
+    },
+    {
+        "t":  "2026-10-23T10:48:39.1406992-04:00",
+        "n":  "example.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:45:29.2900696-04:00",
+        "n":  "cf.emea-free.prd.media.max.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  4
+    },
+    {
+        "t":  "2026-10-23T10:48:12.1267854-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2072098-04:00",
+        "n":  "c.msn.com",
+        "ty":  "HTTPS",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:54:05.4958974-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:46:25.0948816-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:48:30.371238-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:46.9850207-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:18.5162462-04:00",
+        "n":  "clientservices.googleapis.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:57:45.6937035-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:43.0738786-04:00",
+        "n":  "www.googleapis.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:56:18.4435965-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:06.4605789-04:00",
+        "n":  "mobile.events.data.microsoft.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:47:15.1504609-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:54:20.6468246-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:43:56.2549192-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:55:21.4648057-04:00",
+        "n":  "logan.logs.roku.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:38.0717859-04:00",
+        "n":  "daily-cloudcode-pa.googleapis.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  8
+    },
+    {
+        "t":  "2026-10-23T10:52:49.2318362-04:00",
+        "n":  "api.anthropic.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@||anthropic.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:56:47.268529-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-8790.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:57:52.4549961-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:35.275651-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:45.0662316-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:46:19.9103561-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:54:03.0799259-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:47:50.8536383-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:58:18.5162462-04:00",
+        "n":  "clientservices.googleapis.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2104024-04:00",
+        "n":  "c.bing.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.bing.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:21.7789456-04:00",
+        "n":  "api.edgeoffer.microsoft.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:55:15.0489853-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:47:27.2835774-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:47.7558999-04:00",
+        "n":  "x1.c.lencr.org",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:50:05.2919048-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:57:45.1111419-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:57:55.6942155-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:54:26.3177196-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:15.7226187-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:52:55.0868162-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:26.1130465-04:00",
+        "n":  "api-iam.intercom.io",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:54:39.2100119-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:43:14.9080722-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:54:35.5203992-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:52:39.181588-04:00",
+        "n":  "example.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:53:23.6434443-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:54:08.3036952-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:50:24.5102557-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:54:27.6268872-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:49:44.9620007-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:48:04.9174183-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:06.4605789-04:00",
+        "n":  "mobile.events.data.microsoft.com",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:23.6684598-04:00",
+        "n":  "srtb.msn.com",
+        "ty":  "HTTPS",
+        "reason":  "FilteredBlackList",
+        "rule":  "||srtb.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:44:58.7188887-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:49.2318362-04:00",
+        "n":  "api.anthropic.com",
+        "ty":  "A",
+        "reason":  "NotFilteredWhiteList",
+        "rule":  "@@||anthropic.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:57:15.6629586-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:55:21.4653096-04:00",
+        "n":  "logan.logs.roku.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:23.6649782-04:00",
+        "n":  "srtb.msn.com",
+        "ty":  "HTTPS",
+        "reason":  "FilteredBlackList",
+        "rule":  "||srtb.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:43:59.4313508-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:49:23.3784392-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:45.0271757-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  2
+    },
+    {
+        "t":  "2026-10-23T10:46:04.8196423-04:00",
+        "n":  "scribe.logs.roku.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||scribe.logs.roku.com^",
+        "fid":  "0",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:50:35.5625359-04:00",
+        "n":  "ae13772717ede05ccb42-pod-rvoxrogc6jbubp7xlihq3onfk4-1340.us9.cursorvm.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:35.4806746-04:00",
+        "n":  "api3.cursor.sh",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:52:46.0548991-04:00",
+        "n":  "config.teams.microsoft.com",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  7
+    },
+    {
+        "t":  "2026-10-23T10:53:50.5282958-04:00",
+        "n":  "edge-consumer-static.azureedge.net",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2407415-04:00",
+        "n":  "c.msn.com",
+        "ty":  "AAAA",
+        "reason":  "FilteredBlackList",
+        "rule":  "||c.msn.com^",
+        "fid":  "1",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:55:00.4241473-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:58:50.2113554-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:43:20.1172169-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:45:16.7218897-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:53:05.6337068-04:00",
+        "n":  "wpad.lan",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:50:09.973177-04:00",
+        "n":  "beacons-wbd.mediamelon.com",
+        "ty":  "A",
+        "reason":  "FilteredBlackList",
+        "rule":  "||beacons-wbd.mediamelon.com^",
+        "fid":  "1792704381",
+        "status":  "NOERROR",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:45:56.6782351-04:00",
+        "n":  "wpad.lan",
+        "ty":  "AAAA",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NXDOMAIN",
+        "ans":  1
+    },
+    {
+        "t":  "2026-10-23T10:52:14.0867785-04:00",
+        "n":  "api2.cursor.sh",
+        "ty":  "A",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  5
+    },
+    {
+        "t":  "2026-10-23T10:53:22.2034665-04:00",
+        "n":  "www.bing.com",
+        "ty":  "HTTPS",
+        "reason":  "NotFilteredNotFound",
+        "rule":  "",
+        "fid":  "",
+        "status":  "NOERROR",
+        "ans":  3
+    }
+]

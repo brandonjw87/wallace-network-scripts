@@ -1,0 +1,14 @@
+{
+    "svc":  {
+                "SharedAccess":  "Manual",
+                "icssvc":  "Manual"
+            },
+    "pnp":  16,
+    "adv":  {
+                "MIMOPowerSaveMode":  "Auto SMPS",
+                "RoamAggressiveness":  "3. Medium",
+                "RoamingPreferredBandType":  "1. No Preference",
+                "*WakeOnMagicPacket":  "Enabled",
+                "*WakeOnPattern":  "Enabled"
+            }
+}

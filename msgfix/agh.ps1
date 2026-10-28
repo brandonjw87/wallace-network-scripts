@@ -1,0 +1,3 @@
+$t=Get-Content C:\Users\YOU\Tools\AdGuardHome\ADMIN-LOGIN.txt -Raw; $u=[regex]::Match($t,'(?i)user\w*\s*[:=]\s*(\S+)').Groups[1].Value;$pw=[regex]::Match($t,'(?i)pass\w*\s*[:=]\s*(\S+)').Groups[1].Value
+$H=@{Authorization='Basic '+[Convert]::ToBase64String([Text.Encoding]::UTF8.GetBytes("${u}:$pw"))}; Remove-Variable t,pw
+function A($path,$m='GET',$b=$null){ if($b -ne $null){Invoke-RestMethod "http://127.0.0.1:3000/control/$path" -Method $m -Headers $H -Body ($b|ConvertTo-Json -Depth 10) -ContentType 'application/json'}else{Invoke-RestMethod "http://127.0.0.1:3000/control/$path" -Method $m -Headers $H}}
